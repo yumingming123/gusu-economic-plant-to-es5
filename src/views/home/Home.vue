@@ -120,6 +120,7 @@ export default {
     return {
       swiperOptions: {
         loop: true,
+        autoplay: true,
         speed: 2000,
         pagination: {
           el: ".swiper-pagination"
